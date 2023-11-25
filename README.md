@@ -1,18 +1,8 @@
-# This repo is under construction. You may find some parts not working as expected.
-
-### Checkout "dev" branch to see which part I'm working on right now
-
-### Following feature will be added in this repo
-
-1. Server side caching
-2. Server side form validation
-3. Test coverage
-4. Scalable image upload
-5. Wiring up CI/CD
+# This repo was created for Bits College Hackathon.
 
 # Library-Management-System
 
-A simple online library management system built with MongodDB, Express.js and Node.js. [Click here](https://demo-library-system.herokuapp.com/) to see the application
+A simple online library management system built with MongodDB, Express.js and Node.js.
 
 ## Techonologies used in this application
 
@@ -32,9 +22,9 @@ A simple online library management system built with MongodDB, Express.js and No
 
 ## Install dependencies
 
-Open git bash or command line tools at application file and run following npm command or if you know what to do, just look at `package.json` file :)
+Open git bash or command line tools at the application file and run the following npm command or if you know what to do, look at the `package.json` file
 
-`npm install passport passport-local passport-local-mongoose body-parser connect-flash ejs express express-santizer express-session method-override mongoose multer sharp uuid --save`
+`npm install passport passport-local passport-local-mongoose body-parser connect-flash ejs express express-sanitizer express-session method-override mongoose multer sharp uuid --save`
 
 #### Install dev dependencies if needed
 
